@@ -1,8 +1,0 @@
-.venv
-.env
-__pycache__/
-*.pyc
-*.sqlite
-.DS_Store
-.vscode/
-node_modules/
